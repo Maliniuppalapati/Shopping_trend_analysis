@@ -1,7 +1,3 @@
-It looks like you’ve built a solid data analysis pipeline! To make this project pop on GitHub or in a portfolio, I’ve cleaned up the structure, refined the language, and added some visual flair with emojis.
-
-Here is a polished version of your README.md:
-
 🛍️ Shopping Trends Analysis
 Uncovering Customer Insights through Data Science
 
